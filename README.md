@@ -103,4 +103,4 @@ python -m pytest -q
 Python, PyTorch, Hugging Face Transformers, NumPy, Streamlit
 
 ## Author
-Om Rudraprasanna Mohanty · [Intern IN2517, 2026]
+Om Rudraprasanna Mohanty · [Intern IN2517 , IIT BBSR, 2026]
