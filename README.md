@@ -33,8 +33,8 @@ Model: `openai/clip-vit-base-patch32`. The index and the query encoder must use 
 
 ## Installation
 ```bash
-git clone [your-repo-url]
-cd [repo-folder-name]
+git clone [git push -u origin main](https://github.com/OmRudraprasanna/ai-image-search-engine.git)
+cd test-clone
 python -m venv venv
 venv\Scripts\activate          # Windows  (Mac/Linux: source venv/bin/activate)
 pip install -r requirements.txt
